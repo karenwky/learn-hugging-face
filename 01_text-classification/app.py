@@ -31,7 +31,7 @@ A text classifier to determine whether a sentence pertains to food or not.
 
 Fine-tuned from [DistilBERT](https://huggingface.co/distilbert/distilbert-base-uncased) on a [dataset](https://huggingface.co/datasets/mrdbourke/learn_hf_food_not_food_image_captions) of LLM-generated image captions categorizing food and non-food topics.
 
-Follow-along [notebook](https://colab.research.google.com/github/karenwky/learn-hugging-face/blob/main/learn_hugging_face_text_classification.ipynb). 
+Follow-along [notebook](https://colab.research.google.com/github/karenwky/learn-hugging-face/blob/main/01_text-classification/learn_hugging_face_text_classification.ipynb). 
 """
 
 demo = gr.Interface(
