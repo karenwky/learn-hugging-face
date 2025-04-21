@@ -1,4 +1,4 @@
-# Learn Hugging Face
+# Learn Hugging Face🤗
 Archive of follow-along notebooks and demos, with extra tryouts.
 
 ## Index
